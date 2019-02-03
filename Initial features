@@ -1,0 +1,16 @@
+Functional Requirements
+Allow user to:
+•	Set weekly budgets
+•	Add payments
+•	view remaining budget for week
+•	save payees
+•	search past payments
+o	by payee
+o	by time period
+Non-Functional Requirements
+•	Display remaining budget in green text when it’s at least 2/3rds of the weekly budget
+•	Display remaining budget in amber text when it’s at least 1/3rd and less than 2/3rds of the weekly budget
+•	Display remaining budget in red text when it’s less than 1/3rd of the weekly budget
+•	Display dates in the format dd/mm/yyyy
+•	Display time in the 24hr digital format hh:mm
+
